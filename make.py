@@ -15,6 +15,6 @@ flights = fm.read_flights('flights.txt', airports)
 
 
 result = fm.make_html(flights, airports)
-f2 = open('index.html', mode='w')
+f2 = open('public/index.html', mode='w')
 f2.write(result)
 f2.close()
