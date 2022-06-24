@@ -34,6 +34,12 @@ jobs:
       - name: Generate html site
         run: |
           python make.py
+          
+      - name: Copy over necessary files
+        run: |
+          cp jquery-3.1.1.slim.min.js public/jquery-3.1.1.slim.min.js
+          cp style.css public/style.css
+          cp toggle.js public/toggle.js
         
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v3
@@ -43,8 +49,3 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-#       - name: Deploy 🚀
-#         uses: JamesIves/github-pages-deploy-action@v4.3.3
-#         with:
-#           branch: gh-pages # The branch the action should deploy to.
-#           folder: public # The folder the action should deploy.
