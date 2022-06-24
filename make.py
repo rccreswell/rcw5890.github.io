@@ -21,10 +21,10 @@ f2.close()
 
 
 fig = fm.plot_map(flights, airports)
-plt.savefig('earth.png', bbox_inches='tight')
+plt.savefig('public/earth.png', bbox_inches='tight')
 
 fig = fm.plot_map(flights, airports, europe=True)
-plt.savefig('europe.png', bbox_inches='tight')
+plt.savefig('public/europe.png', bbox_inches='tight')
 
 fig = fm.plot_map(flights, airports, america=True)
-plt.savefig('america.png', bbox_inches='tight')
+plt.savefig('public/america.png', bbox_inches='tight')
