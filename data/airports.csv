@@ -1,1 +1,197 @@
-a
+code,iata,icao,lat,lon,elevation,name,city,region,country,continent
+JFK,JFK,KJFK,40.639722,-73.778889,4,John F. Kennedy International Airport,New York City,New York,United States,North America
+BDA,BDA,TXKF,32.364167,-64.678611,5,L. F. Wade International Airport,St. Davids Island,St. George's Parish,Bermuda,North America
+EWR,EWR,KEWR,40.6925,-74.168611,5,Newark Liberty International Airport,Newark,New Jersey,United States,North America
+DFW,DFW,KDFW,32.896944,-97.038056,185,Dallas/Fort Worth International Airport,Dallas,Texas,United States,North America
+VPS,VPS,KVPS,30.483333,-86.525278,27,Northwest Florida Regional Airport,Valpariso,Florida,United States,North America
+PNS,PNS,KPNS,30.473333,-87.186667,37,Pensacola Regonal Airport,Pensacola,Florida,United States,North America
+ORD,ORD,KORD,41.978611,-87.904722,204,OHare International Airport,Chicago,Illinois,United States,North America
+SFO,SFO,KSFO,37.618889,-122.375,4,San Francisco International Airport,San Francisco,California,United States,North America
+LAX,LAX,KLAX,33.9425,-118.408056,39,Los Angeles International Airport,Los Angeles,California,United States,North America
+LGA,LGA,KLGA,40.77725,-73.872611,6,LaGuardia Airport,New York City,New York,United States,North America
+LGW,LGW,EGKK,51.147222,-0.190278,62,London Gatwick Airport,London,West Sussex,England,Europe
+LHR,LHR,EGLL,51.4775,-0.461389,25,London Heathrow Airport,London,Greater London,England,Europe
+DXB,DXB,OMDB,25.252778,55.364444,19,Dubai International Airport,Dubai,Dubai,United Arab Emirates,Asia
+FCO,FCO,LIRF,41.800278,12.238889,4,Fiumicino International Airport,Rome,Lazio,Italy,Europe
+MXP,MXP,LIMC,45.63,8.723056,305,Malpensa International Airport,Milan,Lombardy,Italy,Europe
+MAD,MAD,LEMD,40.472222,-3.560833,610,Barajas International Airport,Madrid,Madrid,Spain,Europe
+CDG,CDG,LFPG,49.009722,2.547778,119,Paris Charles de Gaulle Airport,Paris,Ile-de-France,France,Europe
+XNA,XNA,KXNA,36.281667,-94.307778,393,Northwest Arkansas Regional Airport,Fayetteville,Arkansas,United States,North America
+YYZ,YYZ,CYYZ,43.676667,-79.630556,173,Toronto Pearson International Airport,Toronto,Ontario,Canada,North America
+NRT,NRT,RJAA,35.765278,140.385556,41,Narita International Airport,Tokyo,Kanto,Japan,Asia
+KIX,KIX,RJBB,34.784444,135.439167,5,Kansai International Airport,Osaka,Kansai,Japan,Asia
+SEA,SEA,KSEA,47.448889,-122.309444,132,Seattle-Tacoma International Airport,Seattle,Washington,United States,North America
+PDX,PDX,KPDX,45.588611,-122.5975,9,Portland International Airport,Portland,Oregon,United States,North America
+YYC,YYC,CYYC,51.113889,-114.02,1099,Calgary International Airport,Calgary,Alberta,Canada,North America
+SLC,SLC,KSLC,40.788333,-111.977778,1288,Salt Lake City International Airport,Salt Lake City,Utah,United States,North America
+BOS,BOS,KBOS,42.363056,-71.006389,6,General Edward Lawrence Logan International Airport,Boston,Massachusetts,United States,North America
+DEN,DEN,KDEN,39.861667,-104.673056,1655,Denver International Airport,Denver,Colorado,United States,North America
+SNA,SNA,KSNA,33.675556,-117.868333,17,John Wayne Airport,Orange County,California,United States,North America
+MAF,MAF,KMAF,31.9425,-102.201944,875,Midland International Airport,Midland,Texas,United States,North America
+HNL,HNL,PHNL,21.318611,-157.9225,4,Honolulu International Airport,Honolulu,Hawaii,United States,North America
+KOA,KOA,PHKO,19.738889,-156.045556,14,Kona International Airport,Kona,Hawaii,United States,North America
+ITO,ITO,PHTO,19.720278,-155.048333,12,Hilo International Airport,Hilo,Hawaii,United States,North America
+FRA,FRA,EDDF,50.033333,8.570556,111,Frankfurt Airport,Frankfurt,Hesse,Germany,Europe
+YQM,YQM,CYQM,46.116111,-64.678611,71,Greater Moncton International Airport,Moncton,New Brunswick,Canada,North America
+YHZ,YHZ,CYHZ,44.879722,-63.510278,145,Halifax Stanfield International Airport,Halifax,Nova Scotia,Canada,North America
+KEF,KEF,BIKF,63.985,-22.605556,52,Keflavik International Airport,Keflavik,Sudurnes,Iceland,Europe
+SNN,SNN,EINN,52.701944,-8.924722,14,Shannon Airport,Shannon,Clare,Ireland,Europe
+DUB,DUB,EIDW,53.421389,-6.27,74,Dublin Airport,Dublin,Fingal,Ireland,Europe
+GLA,GLA,EGPF,55.871944,-4.433056,8,Glasgow International Airport,Glasgow,Renfrewshire,Scotland,Europe
+MAN,MAN,EGCC,53.353889,-2.275,78,Manchester Airport,Manchester,Lancashire,England,Europe
+BHX,BHX,EGBB,52.453889,-1.748056,104,Birmingham Airport,Birmingham,West Midlands,England,Europe
+LTN,LTN,EGGW,51.874722,-0.368333,160,London Luton Airport,London,Bedfordshire,England,Europe
+LCY,LCY,EGLC,51.505278,0.055278,6,London City Airport,London,Greater London,England,Europe
+MPL,MPL,LFMT,43.576389,3.963056,5,Montpellier-Mediterranee Airport,Montpellier,Languedoc-Roussillon,France,Europe
+ZRH,ZRH,LSZH,47.464722,8.549167,432,Zurich Airport,Zurich,Zurich,Switzerland,Europe
+MUC,MUC,EDDM,48.353889,11.786111,453,Munich Airport,Munich,Bavaria,Germany,Europe
+SXF,SXF,EDDB,52.378611,13.520556,48,Berlin Schonefeld Airport,Berlin,Brandenburg,Germany,Europe
+OSL,OSL,ENGM,60.202778,11.083889,208,Oslo Airport,Oslo,Akershus,Norway,Europe
+HEL,HEL,EFHK,60.317222,24.963333,55,Helsinki-Vantaa Airport,Helsinki,Uusimaa,Finland,Europe
+TOS,TOS,ENTC,69.681389,18.917778,10,Tromso Airport,Tromso,Troms,Norway,Europe
+LYR,LYR,ENSB,78.246111,15.465556,29,Svalbard Airport,Longyearbyen,Svalbard,Norway,Europe
+SCL,SCL,SCEL,-33.392778,-70.785556,474,Comodoro Arturo Merino Benitez International Airport,Santiago,Santiago,Chile,South America
+BZE,BZE,MZBZ,17.539167,-88.308333,5,Philip S. W. Goldson International Airport,Belize City,Belize District,Belize,North America
+EYW,EYW,KEYW,24.556111,-81.759556,1,Key West International Airport,Key West,Florida,United States,North America
+MIA,MIA,KMIA,25.79325,-80.290556,2,Miami International Airport,Miami,Florida,United States,North America
+FLL,FLL,KFLL,26.072583,-80.15275,3,Fort Lauderdale-Hollywood International Airport,Fort Lauderdale,Florida,United States,North America
+TPA,TPA,KTPA,27.975472,-82.53325,8,Tampa International Airport,Tampa,Florida,United States,North America
+MCO,MCO,KMCO,28.429394,-81.308994,29,Orlando International Airport,Orlando,Florida,United States,North America
+BTR,BTR,KBTR,30.533167,-91.149639,21,Baton Rouge Metropolitan Airport,Baton Rouge,Louisiana,United States,North America
+ATL,ATL,KATL,33.636719,-84.428067,313,Hartsfield-Jackson Atlanta International Airport,Atlanta,Georgia,United States,North America
+RDU,RDU,KRDU,35.877639,-78.787472,133,Raleigh-Durham International Airport,Raleigh,North Carolina,United States,North America
+GSO,GSO,KGSO,36.09775,-79.937306,282,Piedmont Triad International Airport,Greensboro,North Carolina,United States,North America
+RIC,RIC,KRIC,37.505167,-77.319667,51,Richmond International Airport,Richmond,Virginia,United States,North America
+DCA,DCA,KDCA,38.852083,-77.037722,5,Ronald Reagan Washington National Airport,Washington D.C.,Virginia,United States,North America
+IAD,IAD,KIAD,38.944533,-77.455811,95,Washington Dulles International Airport,Washington D.C.,Virginia,United States,North America
+PHL,PHL,KPHL,39.871944,-75.241139,11,Philadelphia International Airport,Philadelphia,Pennsylvania,United States,North America
+BDL,BDL,KBDL,41.938889,-72.683222,53,Bradley International Airport,Hartford,Connecticut,United States,North America
+ROC,ROC,KROC,43.118866,-77.672389,170,Greater Rochester International Airport,Rochester,New York,United States,North America
+CLE,CLE,KCLE,41.411689,-81.849794,241,Cleveland Hopkins International Airport,Cleveland,Ohio,United States,North America
+CMH,CMH,KCMH,39.997972,-82.891889,248,Port Columbus International Airport,Columbus,Ohio,United States,North America
+BNA,BNA,KBNA,36.124472,-86.678194,183,Nashville International Airport,Nashville,Tennessee,United States,North America
+TYS,TYS,KTYS,35.810972,-83.994028,299,McGhee Tyson Airport,Knoxville,Tennessee,United States,North America
+IAH,IAH,KIAH,29.984433,-95.341442,30,George Bush Intercontinental Airport,Houston,Texas,United States,North America
+HOU,HOU,KHOU,29.645419,-95.278889,14,William P. Hobby Airport,Houston,Texas,United States,North America
+AUS,AUS,KAUS,30.194528,-97.669889,165,Austin-Bergstrom International Airport,Austin,Texas,United States,North America
+SAT,SAT,KSAT,29.533694,-98.469778,246,San Antonio International Airport,San Antonio,Texas,United States,North America
+MFE,MFE,KMFE,26.175833,-98.238611,33,McAllen-Miller International Airport,McAllen,Texas,United States,North America
+LBB,LBB,KLBB,33.663639,-101.822778,1000,Lubbock Preston Smith International Airport,Lubbock,Texas,United States,North America
+AMA,AMA,KAMA,35.219369,-101.705931,1099,Rick Husband Amarillo International Airport,Amarillo,Texas,United States,North America
+ELP,ELP,KELP,31.80725,-106.377583,1206,El Paso International Airport,El Paso,Texas,United States,North America
+TUS,TUS,KTUS,32.116083,-110.941028,806,Tucson International Airport,Tucson,Arizona,United States,North America
+PHX,PHX,KPHX,33.434278,-112.011583,346,Phoenix Sky Harbor International Airport,Phoenix,Arizona,United States,North America
+PSP,PSP,KPSP,33.829667,-116.506694,145,Palm Springs International Airport,Palm Springs,California,United States,North America
+SAN,SAN,KSAN,32.733556,-117.189667,5,San Diego International Airport,San Diego,California,United States,North America
+LGB,LGB,KLGB,33.817722,-118.151611,18,Long Beach Airport,Los Angeles,California,United States,North America
+IYK,IYK,KIYK,35.658889,-117.829444,749,Inyokern Airport,Inyokern,California,United States,North America
+FAT,FAT,KFAT,36.776194,-119.71814,102,Fresno Yosemite International Airport,Fresno,California,United States,North America
+OAK,OAK,KOAK,37.721278,-122.220722,3,Oakland International Airport,Oakland,California,United States,North America
+SJC,SJC,KSJC,37.3626,-121.929022,19,San Jose International Airport,San Jose,California,United States,North America
+ANC,ANC,PANC,61.174361,-149.996361,46,Ted Stevens Anchorage International Airport,Anchorage,Alaska,United States,North America
+COS,COS,KCOS,38.805805,-104.700778,1886,Colorado Springs Airport,Colorado,Colorado,United States,North America
+MSP,MSP,KMSP,44.881956,-93.221767,256,Minneapolis-Saint Paul International Airport,Minneapolis,Minnesota,United States,North America
+MQT,MQT,KMQT,46.353611,-87.395278,372,Sawyer International Airport,Marquette,Michigan,United States,North America
+MKE,MKE,KMKE,42.947222,-87.896583,222,General Mitchell International Airport,Milwaukee,Wisconsin,United States,North America
+PMC,PMC,SCTE,-41.438886,-73.093953,90,El Tepual Airport,Puerto Montt,Los Lagos,Chile,South America
+PUQ,PUQ,SCCI,-53.002642,-70.854586,42,Presidente Carlos Ibanez del Campo International Airport,Punta Arenas,Magallanes,Chile,South America
+MPN,MPN,EGYP,-51.822777,-58.447222,74,RAF Mount Pleasant,Mount Pleasant,Falkland Islands,Falkland Islands,South America
+PSY,PSY,SFAL,-51.685672,-57.777644,23,Port Stanley Airport,Stanley,Falkland Islands,Falkland Islands,South America
+sli,,,-52.428215,-59.077744,13,Sea Lion Island Airstrip,Sea Lion Island,Falkland Islands,Falkland Islands,South America
+lli,,,-51.995701,-58.461221,16,Lively Island Airstrip,Lively Island,Falkland Islands,Falkland Islands,South America
+pbi,,,-51.307051,-59.607236,30,Pebble Island Airstrip,Pebble Island,Falkland Islands,Falkland Islands,South America
+FFA,FFA,KFFA,36.018333,-75.671389,4,First Flight Airport,Kitty Hawk,North Carolina,United States,North America
+DAL,DAL,KDAL,32.847222,-96.851667,148,Dallas Love Field,Dallas,Texas,United States,North America
+MLI,MLI,KMLI,41.448611,-90.5075,180,Quad City International Airport,Moline,Illinois,United States,North America
+ABQ,ABQ,KABQ,35.039333,-106.610778,1632,Albuquerque International Sunport,Albuquerque,New Mexico,United States,North America
+SAF,SAF,KSAF,35.617222,-106.089444,1935,Santa Fe Municipal Airport,Santa Fe,New Mexico,United States,North America
+OKC,OKC,KOKC,35.393056,-97.600833,395,Will Rogers World Airport,Oklahoma City,Oklahoma,United States,North America
+SYD,SYD,YSSY,-33.946111,151.177222,6,Sydney Airport,Sydney,New South Wales,Australia,Australia
+AKL,AKL,NZAA,-37.008056,174.791667,7,Auckland Airport,Auckland,Auckland,New Zealand,Australia
+CHC,CHC,NZCH,-43.489444,172.532222,37,Christchurch International Airport,Christchurch,Canterbury,New Zealand,Australia
+BRO,BRO,KBRO,25.906944,-97.425833,7,Brownsville/South Padre Island International Airport,Brownsville,Texas,United States,North America
+CRP,CRP,KCRP,27.770278,-97.501111,13,Corpus Christi International Airport,Corpus Christi,Texas,United States,North America
+GVA,GVA,LSGG,46.238333,6.109444,430,Geneve Aeroport,Geneva,Geneva,Switzerland,Europe
+ONT,ONT,KONT,34.056111,-117.601111,288,Ontario International Airport,Ontario,California,United States,North America
+ABI,ABI,KABI,32.411115,-99.681667,546,Abilene Regional Airport,Abilene,Texas,United States,North America
+BRU,BRU,EBBR,50.901389,4.484444,56,Brussels Airport,Brussels,Flemish Brabant,Belgium,Europe
+DUS,DUS,EDDL,51.289444,6.766667,147,Dusseldorf Airport,Dusseldorf,North Rhine-Westphalia,Germany,Europe
+EDI,EDI,EGPH,55.95,-3.3725,41,Edinburgh Airport,Edinburgh,Edinburgh,Scotland,Europe
+KOI,KOI,EGPA,58.958056,-2.900556,18,Kirkwall Airport,Kirkwall,Orkney,Scotland,Europe
+PPW,PPW,EGEP,59.351667,-2.900278,28,Papa Westray Airport,Papa Westray,Orkney,Scotland,Europe
+WRY,WRY,EGEW,59.350278,-2.95,9,Westray Airport,Aikerness,Orkney,Scotland,Europe
+INV,INV,EGPE,57.5425,-4.0475,9,Inverness Airport,Inverness,Highland,Scotland,Europe
+SHV,SHV,KSHV,32.446667,-93.825556,79,Shreveport Regional Airport,Shreveport,Louisiana,United States,North America
+LIT,LIT,KLIT,34.729444,-92.224722,81,Clinton National Airport,Little Rock,Arkansas,United States,North America
+CLL,CLL,KCLL,30.588611,-96.363889,98,Easterwood Airport,College Station,Texas,United States,North America
+MHK,MHK,KMHK,39.141111,-96.671667,325,Manhattan Regional Airport,Manhattan,Kansas,United States,North America
+CLT,CLT,KCLT,35.213889,-80.943056,228,Charlotte Douglas International Airport,Charlotte,North Carolina,United States,North America
+ARN,ARN,ESSA,59.651944,17.918611,42,Arlanda Airport,Stockholm,Sigtuna,Sweden,Europe
+BMA,BMA,ESSB,59.354444,17.939722,14,Bromma Airport,Stockholm,Stockholm,Sweden,Europe
+MMX,MMX,ESMS,55.53,13.371389,72,Malmo Airport,Malmo,Svedala,Sweden,Europe
+CPH,CPH,EKCH,55.618056,12.656111,5,Copenhagen Airport,Copenhagen,Kastrup,Denmark,Europe
+MCI,MCI,KMCI,39.2975,-94.713889,313,Kansas City International Airport,Kansas City,Missouri,United States,North America
+ELM,ELM,KELM,42.16,-76.891667,291,Elmira/Corning Regional Airport,Horseheads,New York,United States,North America
+ITH,ITH,KITH,42.491389,-76.458611,335,Ithaca Tompkins Regional Airport,Ithaca,New York,United States,North America
+AUH,AUH,OMAA,24.433056,54.651111,27,Abu Dhabi International Airport,Abu Dhabi,Abu Dhabi,United Arab Emirates,Asia
+HKG,HKG,VHHH,22.308889,113.914444,9,Hong Kong International Airport,Hong Kong,Hong Kong,Hong Kong,Asia
+CAN,CAN,ZGGG,23.3925,113.298889,15,Guangzhou Baiyun International Airport,Guangzhou,Guangdong,China,Asia
+SHA,SHA,ZSSS,31.198056,121.336389,3,Shanghai Hongqiao International Airport,Shanghai,Shanghai,China,Asia
+PVG,PVG,ZSPD,31.143333,121.805278,4,Shanghai Pudong International Airport,Shanghai,Shanghai,China,Asia
+AMS,AMS,EHAM,52.308056,4.764167,-3,Amsterdam Airport Schiphol,Amsterdam,North Holland,Netherlands,Europe
+BWI,BWI,KBWI,39.175278,-76.668333,45,Baltimore-Washington International Airport,Baltimore,Maryland,United States,North America
+IPT,IPT,KIPT,41.241667,-76.921667,161,Williamsport Regional Airport,Williamsport,Pennsylvania,United States,North America
+ROA,ROA,KROA,37.325556,-79.975556,358,Roanoke-Blacksburg Regional Airport,Roanoke,Virginia,United States,North America
+HAM,HAM,EDDH,53.630278,9.991111,16,Hamburg Airport,Hamburg,Hamburg,Germany,Europe
+DRO,DRO,KDRI,37.151389,-107.753889,2038,Durango-La Plata County Airport,Durango,Colorado,United States,North America
+DAY,DAY,KDAY,39.902222,-84.219444,308,Dayton International Airport,Dayton,Ohio,United States,North America
+HPN,HPN,KHPN,41.066944,-73.7075,134,Westchester County Airport,White Plains,New York,United States,North America
+PIT,PIT,KPIT,40.491389,-80.232778,367,Pittsburgh International Airport,Pittsburgh,Pennsylvania,United States,North America
+GRK,GRK,KGRK,31.067222,-97.828889,309,Killeen-Fort Hood Regional Airport,Killeen,Texas,United States,North America
+FSM,FSM,KFSM,35.336667,-94.3675,143,Fort Smith Regional Airport,Fort Smith,Arkansas,United States,North America
+VIE,VIE,LOWW,48.110278,16.569722,183,Vienna International Airport,Vienna,Lower Austria,Austria,Europe
+BUD,BUD,LHBP,47.439444,19.261944,151,Budapest Franz Liszt International Airport,Budapest,Central Hungary,Hungary,Europe
+ACT,ACT,KACT,31.611389,-97.230556,157,Waco Regional Airport,Waco,Texas,United States,North America
+GRR,GRR,KGRR,42.880833,-85.522778,242,Gerald R. Ford International Airport,Grand Rapids,Michigan,United States,North America
+PVD,PVD,KPVD,41.723889,-71.428333,17,T.F. Green Airport,Providence,Rhode Island,United States,North America
+MVY,MVY,KMVY,41.393056,-70.614444,20,Martha's Vineyard Airport,Vineyard Haven,Massachusetts,United States,North America
+HVN,HVN,KHVN,41.263889,-72.886667,4,Tweed New Haven Airport,New Haven,Connecticut,United States,North America
+BLQ,BLQ,LIPE,44.535444,11.288667,37,Bologna Guglielmo Marconi Airport,Bologna,Emilia-Romagna,Italy,Europe
+FLR,FLR,LIRQ,43.81,11.203889,40,Amerigo Vespucci Airport,Florence,Tuscany,Italy,Europe
+PWM,PWM,KPWM,43.646111,-70.309167,23,Portland International Jetport,Portland,Maine,United States,North America
+MSY,MSY,KMSY,29.993333,-90.258056,1,Louis Armstrong New Orleans International Airport,New Orleans,Louisiana,United States,North America
+ACK,ACK,KACK,41.252889,-70.059,15,Nantucket Memorial Airport,Nantucket,Massachusetts,United States,North America
+VCE,VCE,LIPZ,45.505278,12.351944,2,Venice Marco Polo Airport,Venice,Veneto,Italy,Europe
+ICN,ICN,RKSI,37.463333,126.44,7,Incheon International Airport,Seoul,Seoul,South Korea,Asia
+PEK,PEK,ZBAA,40.0725,116.5975,35,Beijing Capital International Airport,Beijing,Beijing,China,Asia
+SBY,SBY,KSBY,38.34,-75.509444,16,Salisbury-Ocean City-Wicomico Regional Airport,Salisbury,Maryland,United States,North America
+YUL,YUL,CYUL,45.470556,-73.740833,36,Montreal-Pierre Elliott Trudeau International Airport,Montreal,Quebec,Canada,North America
+YTZ,YTZ,CYTZ,43.628333,-79.396111,77,Billy Bishop Toronto City Airport,Toronto,Ontario,Canada,North America
+CXH,CXH,CYHC,49.294444,-123.111389,0,Vancouver Coal Harbour Seaplane Base,Vancouver,British Columbia,Canada,North America
+ZNA,ZNA,,49.169167,-123.935278,0,Nanaimo Harbour Water Airport,Nanaimo,British Columbia,Canada,North America
+YVR,YVR,CYVR,49.194722,-123.183889,4,Vancouver International Airport,Vancouver,British Columbia,Canada,North America
+ALB,ALB,KALB,42.749167,-73.801944,87,Albany International Airport,Albany,New York,United States,North America
+DTW,DTW,KDTW,42.2125,-83.3533333,197,Detroit Metropolitan Wayne County Airport,Detroit,Michigan,United States,North America
+RNN,RNN,EKRN,55.063333,14.759444,16,Bornholm Airport,Ronne,Hovedstaden,Denmark,Europe
+IOM,IOM,EGNS,54.083333,-4.623333,16,Ronaldsway Airport,Castletown,Malew,Isle of Man,Europe
+ORH,ORH,KORH,42.267222,-71.875833,308,Worcester Regional Airport,Worcester,Massachusetts,United States,North America
+RUT,RUT,KRUT,43.53,-72.949722,240,Southern Vermont Regional Airport,Rutland,Vermont,United States,North America
+BGO,BGO,ENBR,60.293611,5.218056,51,Bergen Airport Flesland,Bergen,Hordaland,Norway,Europe
+FAE,FAE,EKVG,62.063611,-7.277222,85,Vagar Airport,Sorvagur,Vagar,Faroe Islands,Europe
+LIN,LIN,LIML,45.449444,9.278333,108,Linate Airport,Milan,Lombardy,Italy,Europe
+VRN,VRN,LIPX,45.396389,10.888056,73,Villafranca Airport,Verona,Veneto,Italy,Europe
+AGP,AGP,LEMG,36.679487,-4.495781,16,Aeropuerto de Malaga Costa del Sol,Malaga,Andalusia,Spain,Europe
+GIB,GIB,LXGB,36.151366,-5.346472,5,Gibraltar International Airport,Gibraltar,North District,Gibraltar,Europe
+LIS,LIS,LPPT,38.774167,-9.134167,114,Humberto Delgado Airport,Lisbon,Lisbon,Portugal,Europe
+EGE,EGE,KEGE,39.6425,-106.917778,1996,Eagle County Regional Airport,Vail,Colorado,United States,North America
+GEG,GEG,KGEG,47.62,-117.533889,727,Spokane International Airport,Spokane,Washington,United States,North America
+BIO,BIO,LEBB,43.301111,-2.910556,42,Bilbao Airport,Bilbao,Biscay,Spain,Europe
+SPS,SPS,KSPS,33.988889,-98.491944,311,Wichita Falls Regional Airport,Wichita Falls,Texas,United States,North America
+LAW,LAW,KLAW,34.567778,-98.416389,338,Lawton-Fort Sill Regional Airport,Lawton,Oklahoma,United States,North America
+SBA,SBA,KSBA,34.426111,-119.840278,4,Santa Barbara Municipal Airport,Santa Barbara,California,United States,North America
+LUX,LUX,ELLX,49.623333,6.204444,376,Luxembourg Airport,Luxembourg,Luxembourg City,Luxembourg,Europe
+NNR,NNR,EICA,53.230556,-9.467778,21,Connemara Airport,Inverin,County Galway,Ireland,Europe
+INQ,INQ,EIIR,53.064444,-9.511111,13,Inisheer Aerodrome,Inisheer,County Galway,Ireland,Europe
+IOR,IOR,EIIM,53.106944,-9.653889,7,Inishmore Aerodrome,Kilronan,County Galway,Ireland,Europe
+TLS,TLS,LFBO,43.635,1.367778,151,Toulouse-Blagnac Airport,Toulouse,Occitanie,France,Europe
+TRD,TRD,ENVA,63.4575,10.924167,17,Trondheim Airport Værnes,Trondheim,Trondelag,Norway,Europe
