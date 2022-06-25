@@ -521,6 +521,15 @@ def make_html(flights, airports):
             doc.asis('<link href="https://fonts.googleapis.com/css2?family=Jost:wght@400;500&display=swap" rel="stylesheet">')
             # doc.asis('<link href="https://fonts.googleapis.com/css2?family=Kumbh+Sans:wght@400;500&display=swap" rel="stylesheet">')
             doc.asis('<link href="https://fonts.googleapis.com/css2?family=Average+Sans&display=swap" rel="stylesheet">')
+            
+            doc.asis('<!-- Global site tag (gtag.js) - Google Analytics -->')
+            doc.asis('<script async src="https://www.googletagmanager.com/gtag/js?id=G-5NN0B2TQT4"></script>')
+            doc.asis('<script>')
+            doc.asis('window.dataLayer = window.dataLayer || [];')
+            doc.asis('function gtag(){dataLayer.push(arguments);}')
+            doc.asis("gtag('js', new Date());")
+            doc.asis("gtag('config', 'G-5NN0B2TQT4');")
+            doc.asis('</script>')
 
         with tag('body', onload='clean(document.body)'):
             with tag('div', klass='titles', onclick='toggle("airplanes","airplanesud");clean(document.body)'):
