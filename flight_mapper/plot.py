@@ -56,7 +56,8 @@ def plot_map(flights,
         usa_states = cfeature.NaturalEarthFeature(
             category='cultural',
             name='admin_1_states_provinces_lines',
-            scale='50m',
+            scale='110m',
+            edgecolor='k',
             facecolor='none')
         ax.add_feature(usa_states, linewidth=0.3)
 
